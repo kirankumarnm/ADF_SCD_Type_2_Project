@@ -1,0 +1,9 @@
+{
+	"name": "SCDproject-adf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e9a1410c-16ca-4e7f-9748-9b2f62b3b05a",
+		"tenantId": "88499d76-a2cd-44b6-80e9-6b294bc83a0f"
+	}
+}
